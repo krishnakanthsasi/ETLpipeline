@@ -10,6 +10,7 @@ Step by step:
 2. Transform: Changing this data based on what is asked by the business. Generally involves two steps: cleansing, and manipulation    
 3. Load: Loading the transformed data into the data warehouse.
 
-Example:
+My example:
+Using a webscraper in python, extracting information about housing options in Amsterdam, and converting it into compact form using NLP libraries, and finally storing it an csv or sql database.
 
-Extraction: 
+
